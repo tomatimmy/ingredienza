@@ -39,6 +39,10 @@
         color: black;
     }
 
+    a:hover {
+        text-decoration: underline;
+    }
+
     .menu-left,
     .menu-right {
         list-style-type: none;
@@ -307,6 +311,7 @@
 
     .footer {
         color: white;
+        background-color: #efeee4;
         padding-top: 10rem;
     }
 
@@ -347,9 +352,10 @@
     .copyright {
         text-align: center;
         margin-top: 5rem;
-        margin-bottom: 2rem;
+        padding-bottom: 2rem;
         color: #09302B;
         font-size: 0.8rem;
+        background-color: #efeee4;
     }
 
 
